@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">2501974391_MCS_GSLC_4</string>
+    <string name="Logo">Muse.io</string>
+    <string name="MadeBy">Made by Thessalonica</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="Login">Login</string>
+    <string name="Logout">Logout</string>
+    <string name="ForgotPassword">Forgot password?</string>
+    <string name="Welcome">Welcome</string>
+    <string name="Category">Let\'s pick a category</string>
+    <string name="Category1">Pop</string>
+    <string name="Category2">Jazz</string>
+    <string name="Category3">Classic</string>
+    <string name="Category4">R&amp;B</string>
+    <string name="Category5">Hip Hop</string>
+    <string name="Category6">Country</string>
+    <string name="Songs">All Songs</string>
+</resources>
